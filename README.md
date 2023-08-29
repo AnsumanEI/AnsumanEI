@@ -1,4 +1,3 @@
-#README
 - 👋 Hi, I’m @AnsumanEI
 - 👀 I’m interested in Coding and Research realted activities
 - 🌱 I’m currently learning C++
