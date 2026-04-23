@@ -66,6 +66,7 @@ Currently at **TCS** (IoT & DE Training) · Targeting software engineering switc
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ansuman_Panigrahi-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/ansuman-panigrahi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ansuman_Panigrahi-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/ansuman-panigrahi-465996135/)
+
 
 Open to connecting with engineers, mentors, and anyone working on interesting backend or IoT problems.
